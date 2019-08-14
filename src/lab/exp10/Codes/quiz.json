@@ -1,0 +1,273 @@
+{
+    "artciles": [
+        {
+            "quiztitle":"Quiz for Triaxial Test",
+            "containers":"5"
+        },
+        {
+            "q": "The deviator stress developed in the proving ring, through the applied pressure is equal to",
+            "option": [
+                "σ1 – σ3",
+                "σ2 – σ3",
+                "σ1 + σ3"
+            ],
+            "answer": "σ1 – σ3",
+            "description": "The vertical stress applied by the loading frame, through the proving ring is equal to (σ1 – σ3),
+            this stress difference is called the deviator stress."
+        },
+        {
+            "q": "Which of the following is an advantage of using tri axial test?",
+            "option": [
+                "The plane of shear failure is predetermined",
+                "Stress conditions are complex",
+                "Precise measurement"
+            ],
+            "answer": "Precise measurement",
+            "description": "In tri axial test, precise measurements of the pore pressure and
+            volume change during the test are possible."
+        },
+        {
+            "q": "In which test variation cell pressure is applied without allowing drainage. Then keeping cell pressure constant,
+            deviator stress is increased to failure without drainage.?",
+            "option": [
+                "unconsolidated undrained",
+                "consolidated undrained",
+                "consolidated drained"
+            ],
+            "answer": "unconsolidated undrained",
+            "description": "None"
+        },
+        {
+            "q": "Bishop’s apparatus does not contain which one of the following equipment?",
+            "option": [
+                "Porous disc",
+                "Top cap",
+                "All of the mentioned"
+            ],
+            "answer": "Option 1",
+            "description": "Bishop’s apparatus mainly consists of the null indicator,
+            the control cylinder, pressure gauge, mercury manometer and burette."
+        },
+        {
+            "q": "The Tri axial compression test was introduced by",
+            "option": [
+                "A. casagrande and Karl Terzaghi",
+                "Mohr",
+                "None of the above"
+            ],
+            "answer": "A. casagrande and Karl Terzaghi",
+            "description": "The tri axial compression test was first introduced in U.S.A by A. casagrande and Karl Terzaghi in 1936-37."
+        },
+        {
+            "q": " Triaxial test has many advantages over the direct shear test",
+            "option": [
+                "True",
+                "False",
+                "Can't say"
+            ],
+            "answer": "True",
+            "description": "The soil samples are subjected to uniform stresses and strains, Drained and undrained tests can be carried out."
+        },
+        {
+            "q": "Which of the following strength test is commonly used in the laboratory?",
+            "option": [
+                "Direct shear test",
+                "Confined compression test",
+                "Tri axial shear test"
+            ],
+            "answer": "Tri axial shear test",
+            "description": "As a shear test can be performed under all three drainage condition,
+              tri axial test is most commonly used in research laboratory."
+        },
+        {
+            "q": "Which of the following outlet is provided at the base of the tri axial test apparatus?",
+            "option": [
+                "Pore water outlet",
+                "Drainage outlet",
+                "Both"
+            ],
+            "answer": "Both",
+            "description": " Three outlet connections are generally provided through the base of the test apparatus: cell fluid test,
+            pore water outlet from the bottom of the specimen and the drainage outlet from the bottom of the specimen. "
+        },
+        {
+            "q": "Pore pressure developed in the tri axial test can be measured by",
+            "option": [
+                "Bishop’s apparatus",
+                "Pore pressure apparatus",
+                "Terzaghi’s apparatus"
+            ],
+            "answer": "Bishop’s apparatus",
+            "description": "Pore pressure developed in the specimen during the test can be measured with the help of a 
+            separate pore pressure measuring equipment such a Bishop’s pore pressure apparatus developed by Bishop in 1950, 1961."
+        },
+        {
+            "q": "The vertical stress on the solid cylindrical test apparatus is applied by",
+            "option": [
+                "Major principal stress",
+                "Minor principal stress",
+                "Intermediate principal stress"
+            ],
+            "answer": "Major principal stress",
+            "description": "In tri axial test, the major principle stress σ1 is applied in the vertical direction, and the other two principal stresses
+            σ and σ are applied in the horizontal direction by the fluid pressure round the specimen."
+        },
+        {
+            "q": "When the sol is in the state of stress, it is said to be in",
+            "option": [
+                "Constant state",
+                "Plastic equilibrium",
+                "Stress conditioned state"
+            ],
+            "answer": "Plastic equilibrium",
+            "description": "When the soil is in the state of stress defined by the equation σ1’= σ3’tan2 α’ + 2c’ tan α’ as principal
+            stress relationship, it is said to be in plastic equilibrium."
+        },
+        {
+            "q": "The deviator stress σd is given by",
+            "option": [
+                "σd = σ1 + σ",
+                "σd = σ3 – σ1",
+                "σd=additional axial load/A2"
+            ],
+            "answer": "σd=additional axial load/A2",
+            "description": "The deviator stress σd, is given as the ratio of additional axial 
+            load to the area A2 at failure or during at any stage of the test."
+        },
+        {
+            "q": "Unconsolidated undrained Test is performed with the drain valve closed for all the phases of the test.",
+            "option": [
+                "True",
+                "False",
+                "Not necessary"
+            ],
+            "answer": "True",
+            "description": "Water is not allowed to drain."
+        },
+        {
+            "q": "In which test drainage is allowed during cell pressure application. 
+                  Then without allowing further drainage, deviator stress is increased keeping cell pressure constant. ",
+            "option": [
+                "unconsolidated undrained",
+                "consolidated undrained",
+                "consolidated drained"
+            ],
+            "answer": "consolidated undrained",
+            "description": "None"
+        },
+        {
+            "q": "Filter paper drains may be provided around the outside of the specimen.",
+            "option": [
+                "True",
+                "False",
+                "Not necessary"
+            ],
+            "answer": "True",
+            "description": "True,in order to speed up the consolidation process."
+        },
+        {
+            "q": "In a consolidated drained test, the total stress is equal to the effective stress.",
+            "option": [
+                "True",
+                "False",
+                "Not necessary"
+            ],
+            "answer": "True",
+            "description": "Since the excess pore water pressure is zero."
+        },
+        {
+            "q": "deviator stress is increased, drainage is permitted. The rate of loading must be 
+                  slow enough to ensure no excess pore water pressure develops. ",
+            "option": [
+                "unconsolidated undrained",
+                "consolidated undrained",
+                "consolidated drained"
+            ],
+            "answer": "consolidated drained",
+            "description": "None"
+        },
+        {
+            "q": "In triaxial compression test on a soil specimen the intermediate principle stress isequal to",
+            "option": [
+                "Major principle stress",
+                "Minor principle stress",
+                "Both a & b"
+            ],
+            "answer": "Major principle stress",
+            "description": "None"
+        },
+        {
+            "q": "In which stage a soil sample is set in the triaxial cell and confining pressure is then applied.",
+            "option": [
+                "Stage I",
+                "Stage II",
+                "Stage III"
+            ],
+            "answer": "Stage I",
+            "description": "None"
+        },
+        {
+            "q": "During which stage the applied stresses, axial strain, and pore water pressure or change in sample volume can be measured?",
+            "option": [
+               "Stage I",
+                "Stage II",
+                "Both"
+            ],
+            "answer": "Both",
+            "description": "During both the stages, the applied stresses, axial strain, and pore water pressure or change in sample volume can be measured."
+        },
+        {
+            "q": "Which of the following are not a part of triaxial cell?",
+            "option": [
+                "Soil speciman",
+                "Top cap",
+                "None"
+            ],
+            "answer": "None",
+            "description": "Both are a part of triaxial cell."
+        },
+        {
+            "q": "The connection  to  the  drainage  is  kept  open  for  complete  drainage in consolidated test.",
+            "option": [
+                "True",
+                "False",
+                "Can't say"
+            ],
+            "answer": "True",
+            "description": "The connection  to  the  drainage  is  kept  open  for  
+                              complete  drainage  so  that becomes  nu(c) equal  to  zero."
+        },
+        {
+            "q": "If the unconfined compressive strength of a clay sample is 1800 psf,what will be the cohesion of the clay when it is tested
+                  in Unconfined compression?",
+            "option": [
+                "1800 psf",
+                "900 psf",
+                "3600 psf"
+            ],
+            "answer": "900 psf",
+            "description": "None"
+        },
+        {
+            "q": "If in a C-U triaxial test on stiff clay confining pressure=10 psi,the axial stress=30 psi,and the pore water pressure=5 psi at
+            failure ,then the deviator stress at failure was 25 psi.",
+            "option": [
+                "True",
+                "False",
+                "Can't be calculated."
+            ],
+            "answer": "False",
+            "description": "The deviator stress would be 20 psi."
+        },
+        {
+            "q": "The fundamental property of clay soil that is the basis for it's undrained shear strength is",
+            "option": [
+                "Cohesion",
+                "Apparent adhesion",
+                "Both"
+            ],
+            "answer": "Cohesion",
+            "description": "Cohesion is responsible for undrained shear strength of a clay soil."
+        }
+    ]
+}

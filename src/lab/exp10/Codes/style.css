@@ -1,0 +1,18 @@
+body
+{
+	overflow-x:hidden;
+	margin:0;
+}
+button
+{
+	background-color:#484848;
+	color:white;
+	border:0;
+}
+.button
+{
+	top:140px;
+	left:950px;
+	position:absolute;
+	width:100%;
+}

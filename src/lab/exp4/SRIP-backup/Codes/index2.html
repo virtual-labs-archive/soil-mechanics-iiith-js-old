@@ -1,0 +1,41 @@
+<!DOCTYPE HTML>
+<html lang="en">
+ 
+ <!--Head-->
+ <head>
+    <title>Reynolds Experiment</title>
+	<meta charset="UTF-8">
+    <meta name="description" content="This page has a simulation for grain size distribution experiment">
+    <meta name="keywords" content="Grain size distribution,Experiment,Course,Fine">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<!--<script type="text/javascript" src="canvasjs.min.js"></script>-->
+	<link rel="stylesheet" type="text/css" href="style2.css">
+  </head>
+  
+  <!--Head ends and body starts-->
+  
+  <body>
+	<div class="outline">
+		<canvas></canvas>
+		<div class="overlay">
+			<ul style="color:#006599">
+				<li><a onclick="heading(this)" name="Course">Course</a></li>
+				<li><a onclick="heading(this)" name="Fine">Fine</a></li>
+			</ul>
+			
+		</div>
+		<div class="button">
+			<button id="b" onclick="main()">Start</button>
+		</div>
+		<div >
+			<u id="heading" style="color:#006599">Course</u>
+		</div>
+		
+	</div>
+	
+	<!-- Inclusion of js file-->
+	<script src="script2.js">
+	</script>
+	
+  </body>
+ </html>

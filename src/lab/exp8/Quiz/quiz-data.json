@@ -1,0 +1,297 @@
+{
+    "artciles": [
+        {
+            "quiztitle":"Quiz for Experiment",
+            "containers":"5"
+        },
+        {
+            "q": "Terzaghi's one-dimensional consolidation
+            theory assumes that",
+            "option": [
+                "e vs. p relationship is linear",
+                "e vs. log p relationship is linear",
+                "p vs. log e relationship is linear",
+                "e vs log p/p0 relationship is linear"
+            ],
+            "answer": "e vs. log p relationship is linear",
+            "description": ""
+        },
+        {
+            "q": "The coefficient of consolidation is used for",
+            "option": [
+                "establishing the duration of primary consolidation",
+                "estimating the amount of settlement for a load increment",
+                "determining the depth to which the soil is stressed when loads are applied on the surface of a soil deposit",
+                "determining the preconsolidation pressure for soil deposits known to be over consolidated"
+            ],
+            "answer": "establishing the duration of primary consolidation",
+            "description": "For a given degree of consolidation U, time factor T has a certain value, depending upon the boundary conditions governing the problem. 
+            The time required for a soil to reach a given degree of consolidation can be calculated by knowing the length of drainage path and coefficient of consolidation."
+        },
+        {
+            "q": "The slope of the e-log curve for a soil mass gives",
+            "option": [
+                "coefficient of permeability, k",
+                "coefficient of consolidation C",
+                "compression index, C",
+                "coefficient of volume compressibility, m"
+            ],
+            "answer": "coefficient of consolidation C",
+            "description": ""
+        },
+        {
+            "q": "Sand drains are used to",
+            "option": [
+                "reduce the settlement",
+                "accelerate the consolidation",
+                "increase the permeability",
+                "transfer the load"
+            ],
+            "answer": "accelerate the consolidation",
+            "description": "The slow rate of consolidation of saturated clays of low permeability may be accelerated by means of vertical sand drains which provide for radial drainage, resulting in shortening of drainage path. Consolidation is then mainly due to horizontal radial drainage which results in a faster dissipation of excess pore water pressure."
+        },
+        {
+            "q": "The time for a clay layer to achieve 90%
+            consolidation is 15 years. The time required
+            to achieve 90% consolidation, if the layer
+            were twice as thick, 3 times more permeable
+            and 4 times more compressible would be",
+            "option": [
+                "70 years",
+                "75 years",
+                "80 years",
+                "85 years"
+            ],
+            "answer": "80 years",
+            "description": "As the clay layer is 3 times more permeable
+            and 4 times more compressible, therefore
+            time required for 90% consolidation"
+        }
+        {
+            "q": "Consolidation in soils",
+            "option": [
+                "is a function of the effective stress",
+                "does not depend on the present stress",
+                "is a function of the pore water pressure",
+                "is a function of the total stress"
+            ],
+            "answer": "is a function of the pore water pressure",
+            "description": ""
+        }
+        {
+            "q": "Identify the two False statements from the
+            following four statements
+            I. The consolidation of soil happens due to
+            the change in total stress.
+            II. When Standard Penetration Tests are
+            performed in fine sands below the water
+            table, the dilation correction is applied
+            after the overburden correction is applied.
+            III. Over consolidated clays will have
+            predominantly cohesive, strength as
+            compared to the frictional strength
+            IV. Compaction of soils is due to expulsion",
+            "option": [
+                "II and III",
+                "I and IV",
+                "I and III",
+                "II and IV"
+            ],
+            "answer": "I and IV",
+            "description": ""
+        }
+        {
+            "q": "The time for a clay layer to achieve 85%
+            consolidation is 10 years. If the layer was
+            half as thick, 10 times more permeable and
+            4 times more compressible then the time that
+            would be required to achieve the same
+            degree of consolidation is",
+            "option": [
+                "1 year",
+                "5 years",
+                "12 years",
+                "16 years"
+            ],
+            "answer": "1 year",
+            "description": ""
+        }
+        {
+            "q": "A double draining clay layer, 6 m thick,
+            settles by 30 mm in three years under the
+            influence of certain loads. Its final
+            consolidation settlement has been estimated
+            to be 120 mm. If a thin layer of sand having
+            negligible thickness is introduced at a depth
+            of 1.5 m below the top surface, the final
+            consolidation settlement of clay layer will be",
+            "option": [
+                "60 mm",
+                "120 mm",
+                "240 mm",
+                "None of the above"
+            ],
+            "answer": "120 mm",
+            "description": "Final settelment will not be altered.
+            However the rate of settlement of clay layer will increase "
+        }
+        {
+            "q": "If the elastic modulus and the Poisson's ratio
+            of the clay layer are respectively
+            50 x 10^3 kPa and 0.4 and if the influence
+            factor for the strip footing is 1.75, the elastic
+            settlement of the footing will be",
+            "option": [
+                "0.41 mm",
+                "1.41 mm",
+                "14.1 mm",
+                "None of the above"
+            ],
+            "answer": "1.41 mm",
+            "description": "" 
+        }
+        {
+            "q": "A 6 m thick clay layer undergoes 90%
+            consolidation four times faster under two-  
+            way drainage as compared to one-way
+            drainage. In an identical clay layer of 15 m
+            thickness, two-way drainage will be faster
+            as compared to one-way drainage by",
+            "option": [
+                "8 times",
+                "4 times",
+                "2.5 times",
+                "2 times"
+            ],
+            "answer": "4 times",
+            "description": "The time required for any degree of
+            consolidation, can be obtained from the Taylor's formula" 
+        }
+        {
+            "q": "The root time method is used to determine",
+            "option": [
+                "T, time factor",
+                "Cv, Coefficient of consolidation",
+                "av, coefficient of compressibility",
+                "mv, coefficient of volume compressibility"
+            ],
+            "answer": "Cv, Coefficient of consolidation",
+            "description": "" 
+        }
+        {
+            "q": "The average effective overburden pressure on 0 m
+            thick homogeneous saturated clay layer is 150 kPa.
+            Consolidation test on an undisturbed soil sample
+            taken from the clay layer showed that the void ratio
+            decreased from 0.6 to 0.5 by increasing the stress
+            intensity from 100 kPa to 300 kPa (G 2.65)
+            The initial void ratio of the clay layer is",
+            "option": [
+                "0.209",
+                "0.563",
+                "0.746",
+                "1.000"
+            ],
+            "answer": "0.563",
+            "description": "" 
+        }
+        {
+            "q": "The total consolidation settlement of the clay
+            layer due to the construction of a structure
+            imposing an additional stress intensity of
+            200 kPa is",
+            "option": [
+                "0.10 m",
+                "0.25 m",
+                "0.35 m",
+                "0.50 m"
+            ],
+            "answer": "0.50 m",
+            "description": "" 
+        }
+        {
+            "q": "A saturated clay stratum draining both at
+            the top and bottom undergoes 50 per cent
+            consolidation in 16 years under an applied
+            load. If an additional drainage layer were
+            present at the middle of the clay stratum,
+            50 per cent consolidation would occur in",
+            "option": [
+                "2 years",
+                "4 years",
+                "8 years",
+                "16 years"
+            ],
+            "answer": "4 years",
+            "description": "" 
+        }
+        {
+            "q": "A layer of normally consolidated, saturated
+            silty clay of 1 m thickness is subjected to
+            one dimensional consolidation under a
+            pressure increment of 20 kPa. The properties
+            of the soil are: specific gravity 2.7, natural
+            moisture content 45%, compression index
+            = 0.45, and recompression index 0.05.
+            The initial average effective stress within the
+            layer is 100 kPa. Assuming Terzaghi's
+            theory to be applicable, the primary
+            consolidation settlement (rounded off to the
+            nearest mm) is",
+            "option": [
+                "2 mm",
+                "9 mm",
+                "14 mm",
+                "16 mm"
+            ],
+            "answer": "16 mm",
+            "description": "" 
+        }
+        {
+            "q": "The contact pressure for a rigid footing
+            resting on clay at the centre and the edges
+            are respectively",
+            "option": [
+                "maximum and minimum",
+                "maximum and zero",
+                "zero and maximum",
+                "minimum and maximum"
+            ],
+            "answer": "minimum and maximum",
+            "description": "" 
+        }
+        {
+            "q": "Rise of water table above the ground surface causes",
+            "option": [
+                "Equal increase in pore water pressure and total stress",
+                "Equal decrease in pore water pressure and total stress",
+                "Increase in pore water pressure but decrease in total stress",
+                "Decrease in pore water pressure but increase in total stress"
+            ],
+            "answer": "Equal increase in pore water pressure and total stress",
+            "description": "" 
+        }
+        {
+            "q": "Terzaghi’s theory of one dimensional consolidation assumes",
+            "option": [
+                "Soil is homogeneous and fully saturated",
+                "Water and soil particles are incompressible",
+                "Deformation of the soil, is entirely due to change in volume",
+                "All of the above"
+            ],
+            "answer": "All of the above",
+            "description": "" 
+        }
+        {
+            "q": "If the material of the base of the Casagrande liquid limit device on which the cup containing soil paste drops is softer than the standard hard rubber, then",
+            "option": [
+                "The liquid limit of soil always increases",
+                "The liquid limit of soil always decreases",
+                "The liquid limit of soil may increase",
+                "The liquid limit of soil may decrease"
+            ],
+            "answer": "The liquid limit of soil always increases",
+            "description": "" 
+        }
+    ]
+}

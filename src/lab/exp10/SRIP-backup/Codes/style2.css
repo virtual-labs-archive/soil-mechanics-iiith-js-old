@@ -1,0 +1,45 @@
+body
+{
+	margin:0;
+}
+.outline
+{
+  height: 400px;
+  position: relative;
+  width: 400px;
+}
+
+.overlay
+{
+  bottom: 0;
+  left: 180px;
+  top:120px;
+  position: absolute;
+  width: 100%;
+}
+li,button
+{
+	cursor:pointer;
+}
+button
+{
+	background-color:#484848;
+	color:white;
+	border:0;
+}
+.button
+{
+	top:140px;
+	left:950px;
+	position:absolute;
+	width:100%;
+
+}
+#heading
+{
+	top:110px;
+	left:650px;
+	position:absolute;
+	width:100%;
+	color:#006599;
+}

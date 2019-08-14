@@ -1,0 +1,258 @@
+{
+    "artciles": [
+        {
+            "quiztitle":"Quiz for Experiment",
+            "containers":"5"
+        },
+        {
+            "q": "In a liquid limit test, the moisture content at 10 blows was 70% and that at 100 blows was 20%. The liquid limit of the soil, is",
+            "option": [
+                "35%",
+                "65%",
+                "90%"
+            ],
+            "answer": "65%",
+            "description": "Basics"
+        },
+        {
+            "q": "The active earth pressure of a soil is proportional to (where φ is the angle of friction of the soil)",
+            "option": [
+                "tan2 (45° - φ/2)",
+                "tan2 (45° + φ/2)",
+                "tan (45° + φ)"
+            ],
+            "answer": "tan2 (45° - φ/2)",
+            "description": "Formulae"
+        },
+        {
+            "q": "The minimum water content at which the soil just begins to crumble when rolled into threads 3 mm in diameter, is known",
+            "option": [
+                "permeability limit.",
+                "shrinkage limit",
+                "plastic limit"
+            ],
+            "answer": "plastic limit",
+            "description": "Basics"
+        },
+        {
+            "q": "Pick up the correct statement from the following",
+            "option": [
+                "Below freezing point, higher soil suction develops.",
+                "The rise of the ground surface due to frost action is called frost heave.",
+                "All the above."
+            ],
+            "answer": "All the above.",
+            "description": "Basics"
+        },
+        {
+            "q": " Which one of the following statements is true ?",
+            "option": [
+                "Clays are more porous than sands",
+                "Aluminous cement is used for foundations in soils with chemical deposits",
+                "both"
+            ],
+            "answer": "both",
+            "description": "Basics"
+        },
+        {
+            "q": "The lateral earth pressure on a retaining wall",
+            "option": [
+                "proportional to the internal friction of the soil",
+                "proportional to the depth of the soil",
+                "s equal to mass of the soil retained"
+            ],
+            "answer": "proportional to the internal friction of the soil",
+            "description": "Basics"
+        },
+        {
+            "q": "The internal molecular attraction of a soil, the cohesion",
+            "option": [
+                "increases as the moisture content decreases",
+                "is more in well compacted clays",
+                "decreases as the moisture content increases"
+            ],
+            "answer": "is more in well compacted clays",
+            "description": "Basics"
+        },
+        {
+            "q": "The quantity of seepage of water through soils is proportional to",
+            "option": [
+                "coefficient of permeability of soil",
+                "total head loss through the soil",
+                "both"
+            ],
+            "answer": "both",
+            "description": "logical"
+        },
+        {
+            "q": "When drainage is permitted under initially applied normal stress only and full primarily consolidation is allowed to take place, the test is known as",
+            "option": [
+                "quick test",
+                "consolidated undrained test",
+                "drained test"
+            ],
+            "answer": "consolidated undrained test",
+            "description": "consolidated undrained test is the best."
+        },
+        {
+            "q": "The minimum water content at which the soil retains its liquid state and also possesses a small shearing strength against flowing, is known",
+            "option": [
+                "liquid limit",
+                "shrinkage limit",
+                "permeability limit."
+            ],
+            "answer": "liquid limit",
+            "description": "basics"
+        },
+        {
+            "q": "Minimum size of the particles of silt soil, is",
+            "option": [
+                "0.002 mm",
+                "0.08 mm",
+                "None"
+            ],
+            "answer": "0.002 mm",
+            "description": "basics"
+        },
+        {
+            "q": "The maximum value of effective stress in the past divided by the present value, is defined as over consolidation ratio (OCR). The O.C.R. of an over consolidated clay is",
+            "option": [
+                "less than 1",
+                "more than 1",
+                "1"
+            ],
+            "answer": "more than 1",
+            "description": "Basics"
+        },
+        {
+            "q": "Under-reamed piles are generally",
+            "option": [
+                "precast piles",
+                "bored piles",
+                "driven piles"
+            ],
+            "answer": "bored piles",
+            "description": "Basics"
+        },
+        {
+            "q": "Pick up the clay soil group which does not swell when wet from the following :",
+            "option": [
+                "Mite group",
+                "Vermiculite group",
+                "Kaolinite group"
+            ],
+            "answer": "Mite group",
+            "description": "Mite group does not swell."
+        },
+        {
+            "q": "A compacted soil sample using 10% moisture content has a weight of 200 g and mass unit weight of 2.0 g/cm3. If the specific gravity of soil particles and water are 2.7 and 1.0, the degree of saturation of the soil is",
+            "option": [
+                "55.6%",
+                "11.1%",
+                "69.96%"
+            ],
+            "answer": "55.6%",
+            "description": "Degree of Saturation (S) = G*w/e."
+        },
+        {
+            "q": " A partially saturated sample of soil has a unit weight of 2.0 g/cm3 and specific gravity of soil particles is 2.6. If the moisture content in the soil is 20%, the degree of saturation is",
+            "option": [
+                "92%",
+                "20%",
+                "77%"
+            ],
+            "answer": "92%",
+            "description": "Degree of Saturation (S) = G*w/e."
+        },
+        {
+            "q": "The ratio of the volume of voids to the volume of soil solids in a given soil mass, is known",
+            "option": [
+                "porosity",
+                "specific gravity",
+                "void ratio"
+            ],
+            "answer": "void ratio",
+            "description": "Basics"
+        },
+        {
+            "q": "According to Coulomb's wedge theory, the active earth pressure slides the wedge",
+            "option": [
+                "down and outwards on a slip surface",
+                "horizontal upward and parallel to base",
+                "horizontal inward and parallel to base."
+            ],
+            "answer": "down and outwards on a slip surface",
+            "description": "Coulomb's wedge theory"
+        },
+        {
+            "q": "The effective size of particles of soil is denoted by",
+            "option": [
+                "D10",
+                "D30",
+                "D90"
+            ],
+            "answer": "D10",
+            "description": "basics"
+        },
+        {
+            "q": "Degree of saturation of a natural soil deposit having water content 15%, specific gravity 2.50 and void ratio 0.5, is",
+            "option": [
+                "50%",
+                "75%",
+                "both"
+            ],
+            "answer": "75%",
+            "description": "refer above questions"
+        },
+        {
+            "q": "The coefficient of compressibility of soil, is the ratio of",
+            "option": [
+                "stress to settlement",
+                "strain to stress",
+                "rate of loading to that of settlement."
+            ],
+            "answer": "strain to stress",
+            "description": "Basics"
+        },
+        {
+            "q": "If the failure of a finite slope occurs through the toe, it is known as",
+            "option": [
+                "toe failure.",
+                "slope failure",
+                "base failure"
+            ],
+            "answer": "toe failure.",
+            "description": "Basics"
+        },
+        {
+            "q": "Rankine's theory of active earth pressure assumes",
+            "option": [
+                "wall yields about the base",
+                "back of the wall is vertical and smooth",
+                "both"
+            ],
+            "answer": "both",
+            "description": "Rankine's theory"
+        },
+        {
+            "q": "The water content of soil is defined as the ratio of",
+            "option": [
+                "volume of water to volume of given soil",
+                "weight of water to weight of solids of given mass of soil.",
+                "None"
+            ],
+            "answer": "weight of water to weight of solids of given mass of soil.",
+            "description": "Basics"
+        },
+        {
+            "q": "Accurate determination of water content, is made by",
+            "option": [
+                "sand bath method",
+                "oven-drying method",
+                "alcohol method"
+            ],
+            "answer": "oven-drying method",
+            "description": "oven-drying method is the most Accurate."
+        }
+    ]
+}

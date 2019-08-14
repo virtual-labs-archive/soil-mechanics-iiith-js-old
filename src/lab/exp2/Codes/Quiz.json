@@ -1,0 +1,258 @@
+{
+    "artciles": [
+        {
+            "quiztitle":"Quiz for Experiment",
+            "containers":"5"
+        },
+        {
+            "q": " Most soils have a particle density of about:",
+            "option": [
+                "2.6 g/cc",
+                "2.9 g/cc",
+                "2.5 g/cc"
+            ],
+            "answer": "2.6 g/cc",
+            "description": "Particle density is mass per unit volume of soil particles. It is expressed in g/cc and most soils have 2.6 g/cc as particle density."
+        },
+        {
+            "q": "Soil exists in how many states?",
+            "option": [
+                "1",
+                "2",
+                "4"
+            ],
+            "answer": "4",
+            "description": "Soil can exist in four states based on the amount of water content. They are liquid, plastic, semi solid and solid state. Water content decreases with each state."
+        },
+        {
+            "q": " Loose soil has a relative density within a range of:",
+            "option": [
+                "60-85",
+                "85-100",
+                "10-35"
+            ],
+            "answer": "10-35",
+            "description": "Relative density is used to express relative compactness of cohesionless soil. It ranges from <10 to 100 (very loose to very dense). Loose soil has a relative density between 10 and 35."
+        },
+        {
+            "q": "How many grades of soil are there?",
+            "option": [
+                "5",
+                "4",
+                "7"
+            ],
+            "answer": "4",
+            "description": "Based on the degree of distinctness of peds (natural aggregates of soil particles), there are 4 grades of soil. They are structureless, weak, moderate and strong."
+        },
+        {
+            "q": "How many types of pores are present in a soil mass?",
+            "option": [
+                "Option 5",
+                "Option 3",
+                "Option 4"
+            ],
+            "answer": "5",
+            "description": "The five types are macropore (too large, >75μm), mesopore (30-75μm), micropore (5-30μm), ultramicropore (0.1-30μm) and cryptopore (smallest, < 0.1 μm)."
+        },
+        {
+            "q": "Lacustrine soils are soils",
+            "option": [
+                "transported by rivers and streams",
+                "deposited in sea beds",
+                "deposited in lake beds"
+            ],
+            "answer": "deposited in lake beds",
+            "description": "Lacustrine soils are silt and clays which have been deposited in still, fresh water or lakes "
+        },
+        {
+            "q": "The collapsible soil is associated with",
+            "option": [
+                "dune sands",
+                "laterite soils",
+                "loess"
+            ],
+            "answer": "loess",
+            "description": "Loess is usually homogenous, highly porous and is traversed by vertical cappillaries that permit the sediment to fracture and form vertical bluffs."
+        },
+        {
+            "q": "Consistency as applied to cohesive soils is an indicator of its",
+            "option": [
+                "shear strength",
+                "porosity",
+                "density"
+            ],
+            "answer": "shear strength",
+            "description": "Consistency of soil refers to the resistance offered by it against forces that tend to deform or rupture the soil aggregate. It is related to strength."
+        },
+        {
+            "q": "The correct sequence of plasticity of minerals in soil in an increasing order is",
+            "option": [
+                "silica,kaolinite, illite, montmorillonite",
+                "kaolinite, silica, illite, montmorillonite",
+                "silica, kaolinite, montmorillonite, illite"
+            ],
+            "answer": "silica, kaolinite, illite, montmorillonite",
+            "description": "Silica has least plasticity while montmorillonite has highest plasticity"
+        },
+        {
+            "q": "The predominant mineral responsible for shrinkage and swelling in black cotton soils",
+            "option": [
+                "illite",
+                "montmorillonite",
+                "kaolinite"
+            ],
+            "answer": "montmorillonite",
+            "description": "The presence of sodium as the predominant exchangeable cation can result in the clay swelling to several times its original volume"
+        },
+        {
+            "q": "A soil sample has a void ratio of 0.5; its porosity will be",
+            "option": [
+                "50%",
+                "33%",
+                "66%"
+            ],
+            "answer": "33%",
+            "description": "Porosity = e/(1+e) = 0.5/(1 + 0.5) = 33%"
+        },
+        {
+            "q": "The specific gravity of soil is 2.7 and its void ratio is 0.945. When it is fully saturated the moisture content of the soil will be",
+            "option": [
+                "35%",
+                "25%",
+                "30%"
+            ],
+            "answer": "35%",
+            "description": "wG=Se; w*2.7 = 1*0.945 ; w = 0.35 i.e. 35%"
+        },
+        {
+            "q": "The ratio of dry unit weight to unit weight of water represents",
+            "option": [
+                "specific gravity of soil",
+                "shrinkage ratio",
+                "specific gravity of soil mass"
+            ],
+            "answer": "shrinkage ratio",
+            "description": "Shrinkage ratio = dry unit weight/ unit weight of water"
+        },
+        {
+            "q": "Soil is compacted at which one of the following a higher compactive effort produces highest increase in dry density",
+            "option": [
+                "optimum water content",
+                "dry side of the optimum moisture content",
+                "wet side of the optimum moisture content"
+            ],
+            "answer": "dry side of the optimum moisture content",
+            "description": "With increase in compactive effort, the optimum moisture content decrease and dry density increases.Thus soil is to be compacted on the dry side of the optimum moisture content of original proctor curve"
+        },
+        {
+            "q": "An increase in compaction effort will lead to which of the following ?",
+            "option": [
+                "decrease in both the optimum moisture content and maximum dry density",
+                "decrease in optimum moisture content and increase in maximum dry density",
+                "increase in optimum moisture content and decrease in maximum dry density"
+            ],
+            "answer": "decrease in optimum moisture content and increase in maximum dry density",
+            "description": "For a given type of compaction, the higher the compactive effort,the higher the maximum dry unit weight and lower the optimum moisture content"
+        },
+        {
+            "q": "Which one of the following soils has stress-strain response similar to that of dense sand ?(OCR- Over consolidation ratio)",
+            "option": [
+                "Over consolidated clays having high OCR",
+                "Over consolidated clays having low OCR",
+                "Normally consolidated clays"
+            ],
+            "answer": "Over consolidated clays having high OCR",
+            "description": "Heavily Over consolidated soils behave similar to dense sand"
+        },
+        {
+            "q": "In the consolidated drained test on a saturated soil sample, pore water pressure is zero during",
+            "option": [
+                "consolidation stage only",
+                "shearing stage only",
+                "both consolidation and shearing stages"
+            ],
+            "answer": "both consolidation and shearing stages",
+            "description": "Consolidated means drainage is allowed in first stage. Drained means drainage is allowed in second stage.So in given test, drainage is allowed in both stages."
+        },
+        {
+            "q": "Settlement due to creep in soils is contigent on",
+            "option": [
+                "primary consolidation",
+                "secondary consolidation",
+                "compaction settlement"
+            ],
+            "answer": "secondary consolidation",
+            "description": "Creep is prolonged deformation under the action of constant applied stress. In secondary consolidation drainage of water from the pores of the soil due to development of pore water pressure causes compression of the soil layer."
+        },
+        {
+            "q": "When a structural load is applied on a soil stratum which of the following soil types will have the minimum settlement ?",
+            "option": [
+                "Over consolidated clay stratum",
+                "Clayey silt stratum",
+                "Normally consolidated clay stratum"
+            ],
+            "answer": "Over consolidated clay stratum",
+            "description": "The compression index for the over consolidated clay stratum is smaller as compared to the other given soils, thus it will have minimum settlement"
+        },
+        {
+            "q": "In a Mohr's diagram a point above Mohr's envelop indicates",
+            "option": [
+                "imaginary condition",
+                "safe condition",
+                "imminent failure condition"
+            ],
+            "answer": "imaginary condition",
+            "description": "Point above Mohr's envelop indicates that shear stress is more than shear strength of soil which is an imaginary condition"
+        },
+        {
+            "q": "Which one of the following soil types is mmost likely to be subjected to liquefaction under seismic forces",
+            "option": [
+                "soft saturated clays",
+                "murum",
+                "loose saturated sands"
+            ],
+            "answer": "loose saturated sands",
+            "description": "It is more likely to occur in sandy or non plastic silty soils."
+        },
+        {
+            "q": "As the state of strain of an element of dense sand changes from plain strain to trivial strain condition, the effective angle of internal friction",
+            "option": [
+                "increases",
+                "decreases",
+                "remains constant"
+            ],
+            "answer": "increases",
+            "description": "Trivial strain condition means zero strain in all directions. This condition gives higher angle of internal friction compared to plain strain friction"
+        },
+        {
+            "q": "Considerable loss of shear strength due to shock or disturbance is exhibited by",
+            "option": [
+                "organic soil",
+                "over consolidated clays",
+                "under consolidated clays"
+            ],
+            "answer": "under consolidated clays",
+            "description": "Under consolidated clays when undergo shock or disturbance, remoulding occurs which leads to considerable loss of shear strength"
+        },
+        {
+            "q": "A soil sample having a void ratio of 1.3, water content of 50% and a specific gravity of 2.60, is in a state of",
+            "option": [
+                "partial saturation",
+                "full saturation",
+                "over saturation"
+            ],
+            "answer": "full saturation",
+            "description": "Gw = Se; S = (2.60*50)/1.3 = 100%"
+        },
+        {
+            "q": "Given that plasticity index of local soil=15 and PI of sand = 0, for a desired PI of 6, the percentage of sand in the mix should be",
+            "option": [
+                "70",
+                "40",
+                "60"
+            ],
+            "answer": "60",
+            "description": "x*0 + (1-x)*15 = 6 ; x = 60%"
+        }
+    ]
+}
